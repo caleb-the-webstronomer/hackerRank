@@ -1,4 +1,4 @@
-//  :::::::: A R I T H M E T I C  :::  O P E R A T O R S
+//  :::::::   A R I T H M E T I C  ::  O P E R A T O R S   :::::::
 
 // https://www.hackerrank.com/challenges/js10-arithmetic-operators/problem
 

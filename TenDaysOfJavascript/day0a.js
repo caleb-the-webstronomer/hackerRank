@@ -1,4 +1,4 @@
-//  :::::::: H E L L O  :::  W O R L D
+//  :::::::   H E L L O  ::  W O R L D   :::::::
 
 //https://www.hackerrank.com/challenges/js10-hello-world/problem
 
